@@ -58,7 +58,7 @@ public:
 int main()
 {
 	SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);						//Русифицирование консоли
+	SetConsoleOutputCP(1251);				//Русифицирование консоли
 	Distance dist1, dist2, dist3, dist4;
 	dist1.getdist();
 	dist2.getdist();
